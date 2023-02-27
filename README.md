@@ -1,5 +1,5 @@
 # Data_Visualization_Lab-5 
-Poonam Suthar (B20ES007)
+
 Identify relationship among different variables by PairGrid and pairplot.
 From the resulting plot of Scatterplot, pairplot matrix and Evaluate the classifier's performance , it appears that the setosa species is linearly separable from the other two species,while versicolor and virginica are not easily separated.
 
